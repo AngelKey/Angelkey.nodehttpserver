@@ -43,6 +43,6 @@
     "keybase-bjson-core": "0.0.1",
     "keybase-bjson-express": "0.0.1",
     "iced-test": "0.0.15",
-    "minimist": "^0.1.0"
+    "minimist": "^1.2.5"
   }
 }
